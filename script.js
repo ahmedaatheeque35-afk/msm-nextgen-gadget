@@ -1,0 +1,1 @@
+console.log('MSM NextGen Gadget');
